@@ -1,0 +1,4 @@
+#create vpc
+#create subnet and routes tables
+#create IGW and attach to vpc
+#create SG
